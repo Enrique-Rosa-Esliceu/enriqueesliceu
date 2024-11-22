@@ -1,4 +1,4 @@
-# MUNTATGE
+# Muntatge
 
 ## Profesor
 Tomeu Marqueño

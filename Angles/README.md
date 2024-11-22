@@ -1,4 +1,0 @@
-# Angles
-
-## Profesor
-Marouan Afras
