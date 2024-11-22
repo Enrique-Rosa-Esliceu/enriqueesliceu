@@ -1,4 +1,0 @@
-# MUNTATGE
- 
- ## Professor
- Tomeu Marqueño
