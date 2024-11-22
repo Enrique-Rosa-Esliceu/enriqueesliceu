@@ -1,4 +1,0 @@
-# Muntatge
-
-## Profesor
-Tomeu Marqueño
